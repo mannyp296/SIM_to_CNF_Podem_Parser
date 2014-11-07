@@ -1,0 +1,31 @@
+
+C17
+Number of Nodes = 10
+Number of Minterms = 4
+
+C17 interleaved
+
+C432
+Number of Nodes = 25
+Number of Minterms = 154620919808
+
+
+C432 interleaved
+
+C499
+
+Number of Nodes = 153552
+Number of Minterms = 0
+
+C499 interleaved
+
+Number of Nodes = 190529
+
+C880
+
+Number of Nodes = 983
+Number of Minterms = 257698037760
+
+C880 interleaved
+
+Number of Nodes = 1885

@@ -1,0 +1,43 @@
+4                 M           T          w             H                        F
+8
+
+9
+               ECE152B     ECE2C      ECE152B                ECE2C
+10                 @          @           @                   @
+                   @          @           @                   @ 
+11                         CS170                              CS170             <ECE2C>
+                              @                                  @                 *
+12                            @                                  @                 *
+                                                                                   *
+1                         <CS170>                       <ECE2C>                    *
+                             @                             *                       *
+2                                         <CH ST 180>      *                       *
+                                              @            *                       *
+3                                                          *           
+                                                           *             
+4                                                          *                       <ECE2C>
+                                                           *                          *  
+5                      CH ST 180                     CH ST 180                        *
+                         @                               @                            *
+6                        @            <ECE2C>            @                            *
+                                       *                                              *
+7                         <ECE152B>    *<ECE152B>                                     *
+                              *        *  *
+8                             *        *  *
+                              *        *  *
+9                             *        *  *
+                              *        *  *
+10
+ch st 180*
+ch st 181*
+arth  103B
+arth 109f
+arth 111c
+arth 111f
+arth 121c
+arth 127b
+arth 186e
+arth 186p
+arth 186q
+pol s 171
+span 126
